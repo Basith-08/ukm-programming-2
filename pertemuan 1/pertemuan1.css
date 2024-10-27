@@ -1,0 +1,23 @@
+p {
+  color: red;
+  font-size: 30px;
+}
+
+.paragraf_kedua {
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: gray;
+}
